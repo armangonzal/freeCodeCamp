@@ -1,8 +1,17 @@
 [
-{ "name": "Jane",
-  "quote": "Hello"
+ { "name": "Martin Luther King, Jr.",
+   "quote": "We must accept finite disappointment, but never lose infinite hope."
  },
- { "name": "Joe",
-  "quote": "What?"
+ { "name": "Helen Keller",
+   "quote": "Your success and happiness lies in you. Resolve to keep happy, and your joy and you shall form an invincible host against difficulties."
+ },
+ { "name":"Socrates",
+   "quote":"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us."
+ },
+ { "name":"Frederick Douglass",
+   "quote":"Without a struggle, there can be no progress."
+ },
+ { "name":"Eleanor Roosevelt",
+   "quote":"You must do the things you think you cannot do."
  }
 ]
