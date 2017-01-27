@@ -13,5 +13,8 @@
  },
  { "name":"Eleanor Roosevelt",
    "quote":"You must do the things you think you cannot do."
+ },
+ { "name":"Oscar Wilde",
+   "quote":"Be yourself; everyone else is already taken."
  }
 ]
