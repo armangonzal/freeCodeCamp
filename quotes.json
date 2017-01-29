@@ -19,5 +19,8 @@
  },
  { "name":"Maya Angelou",
    "quote":"If you find it in your heart to care for somebody else, you will have succeeded."
+ },
+ { "name":"Georgia O'Keeffe",
+   "quote":"I decided that if I could paint that flower in a huge scale, you could not ignore its beauty."
  }
 ]
