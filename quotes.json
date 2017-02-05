@@ -34,5 +34,8 @@
  },
  { "name":"Robert Frost",
    "quote:"I'm not confused. I'm just well mixed."
+ },
+ { "name":"Oscar Wilde",
+   "quote":"I am so clever that sometimes I don't understand a single word of what I am saying."
  }
 ]
