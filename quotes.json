@@ -37,5 +37,8 @@
  },
  { "name":"Oscar Wilde",
    "quote":"I am so clever that sometimes I don't understand a single word of what I am saying."
+ },
+ { "name":"Leonard da Vinci",
+   "quote":"The noblest pleasure is the joy of understanding."
  }
 ]
