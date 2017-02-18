@@ -40,5 +40,8 @@
  },
  { "name":"Leonard da Vinci",
    "quote":"The noblest pleasure is the joy of understanding."
+ },
+ { "name":"Paul Klee",
+   "quote":"A line is a dot that went for a walk."
  }
 ]
